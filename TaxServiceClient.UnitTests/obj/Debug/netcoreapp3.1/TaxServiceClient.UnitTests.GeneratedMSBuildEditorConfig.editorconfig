@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = TaxServiceClient.UnitTests
+build_property.ProjectDir = C:\Users\indir\Source\Repos\TaxServiceClient\TaxServiceClient.UnitTests\
